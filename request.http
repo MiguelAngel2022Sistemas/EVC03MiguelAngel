@@ -1,0 +1,6 @@
+@server =https://evc03-d9wg.onrender.com
+
+###
+GET {{server}}
+###
+GET {{server}}/cursos
